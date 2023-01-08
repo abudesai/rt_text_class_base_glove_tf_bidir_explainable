@@ -96,7 +96,6 @@ class RNN_pretrained_embed:
         y_train,
         x_val=None,
         y_val=None,
-        call_backs=[],
         epochs=10,
         num_layers=1,
         neurons_num=50,
